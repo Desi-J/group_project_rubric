@@ -2,7 +2,7 @@
 
 ## Point Requirements
 
-120pts/140pts (85%) to pass
+<p style="color: green; font-weight: 900">120pts/140pts to pass - (85%)</p>
 
 - 50 Tasks in Trello or ZenHub, BEFORE codingGroup - `10.0 pts`
   - must be checked off by mentors
