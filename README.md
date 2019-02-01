@@ -12,8 +12,8 @@
 - MVP tasks are assigned out, BEFORE coding - `10.0 pts`
   - must be checked off by mentors
 - Group commit participation - `10.0 pts`
-- 2 Unit testsIndividual - `5.0pts`
-- 2 Endpoint testsIndividual `5.0pts`
+- 2 Unit testsIndividual (required) - `2.5pts`
+- 2 Endpoint testsIndividual (required) - `2.5pts`
 - Short Standups (everyday at 9am) - `10.0 pts`
 - Professionalism - `70.0 pts`
   - Participates in every standup - `20 pts`
